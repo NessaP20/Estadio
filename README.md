@@ -1,4 +1,3 @@
-class estadio
 class Estadio
 {
     static void Main(string[] args)
@@ -36,5 +35,6 @@ class Estadio
             Console.WriteLine("Selecciona qué artista deseas ir a ver en concierto:");
             elegir = int.Parse(Console.ReadLine());
         }
+
 
 
